@@ -1,0 +1,3 @@
+[submodule "ed247"]
+	path = ed247
+	url = https://github.com/airbus/ED247_LIBRARY.git
